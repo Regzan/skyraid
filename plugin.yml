@@ -1,0 +1,8 @@
+name: SkyRaid
+version: 1.0
+author: [Regzan, Creamy, Quarfed, Kevin07]
+main: com.regzan.skyraid.Main
+api-version: 1.17
+commands:
+  sr:
+    description: Command for handling SkyRaid
